@@ -152,9 +152,9 @@ pytweening==1.0.7
 pytz==2022.1
 pytz-deprecation-shim==0.1.0.post0
 PyWavelets==1.4.1
-pywin32==303; platform_system=="Windows"
+pywin32==306; platform_system=="Windows"
 #pywin32==306
-#pypiwin32==223
+pypiwin32==223
 PyYAML==6.0
 pyzmq==23.1.0
 qudida==0.0.4
