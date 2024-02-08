@@ -198,5 +198,5 @@ whitenoise==5.2.0
 wrapt==1.14.1
 xlrd==2.0.1
 zope.interface==6.1
-psycopg2-binary==2.9.6
+psycopg2-binary==2.9.9
 tzdata==2022.7
