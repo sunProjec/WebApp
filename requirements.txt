@@ -144,7 +144,7 @@ pytweening==1.0.7
 pytz==2022.1
 pytz-deprecation-shim==0.1.0.post0
 PyWavelets==1.4.1
-pywin32==225
+#pywin32==225
 PyYAML==6.0
 pyzmq==23.1.0
 qudida==0.0.4
