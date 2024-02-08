@@ -198,3 +198,4 @@ whitenoise==5.2.0
 wrapt==1.14.1
 xlrd==2.0.1
 zope.interface==6.1
+twisted-iocpsupport==1.0.4
