@@ -7,8 +7,8 @@ from keras.models import load_model
 import cv2,os 
 import numpy as np
 import mediapipe as mp
-from googletrans import Translator
-from google_trans_new import google_translator 
+#from googletrans import Translator
+#from google_trans_new import google_translator 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3' 
 current_time = 0
 model = load_model('./CNN_0-9.h5')
