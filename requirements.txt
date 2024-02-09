@@ -208,7 +208,7 @@ uvicorn==0.21.1
 w3lib==2.1.2
 wcwidth==0.2.5
 Werkzeug==2.2.3
-whitenoise==5.2.0
+#whitenoise==5.2.0
 wrapt==1.14.1
 xlrd==2.0.1
 zope.interface==6.1
